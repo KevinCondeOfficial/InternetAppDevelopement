@@ -18,7 +18,6 @@ This Employee Management System is a web-based application built using PHP and M
 ## How to Run the App
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/employee-management-app.git
    ```
 
 2. **Import the Database**:
@@ -31,10 +30,3 @@ This Employee Management System is a web-based application built using PHP and M
 
 4. **Run the Application**:
    - Visit `http://localhost/employee-management-app/index.php` in your browser.
-
-## Screenshot & DB Settings
-Please include a screenshot of your local phpMyAdmin interface showing the `employees` table and any sample data entered.
-
----
-
-Feel free to customize and extend this project as needed!
